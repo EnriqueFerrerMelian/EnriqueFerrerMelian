@@ -24,15 +24,15 @@
 
 <td width="50%">
                <br>
-<h3 align="center">Educational-App----Back-end</h3>
-<div align="center">                                       
-  <a href="https://github.com/EnriqueFerrerMelian/Educational-App----Back-end" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Backend Academic-vue"></a>
+<h3 align="center">Passwords Manager</h3>
+<div align="center">
+  <a href="https://github.com/EnriqueFerrerMelian/password-manager" target="_blank"><img src="https://github.com/user-attachments/assets/c4271d20-9ae2-4002-b10e-a63916110ae1" width="400" alt="Backend Academic-vue"></a>
 <br>
 <p>
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
+<a href="https://github.com/EnriqueFerrerMelian/password-manager" target="_blank">
 <img src="https://img.shields.io/badge/Code-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-</p>Backend part for a small application to manage students data. Front-end <a href="https://github.com/EnriqueFerrerMelian/academic-vue">here</a>.</p>
+</p>Small password manager to keep track of our passwords list.</p>
 </div>                                                             
 </table>                 
